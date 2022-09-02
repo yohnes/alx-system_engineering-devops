@@ -1,2 +1,2 @@
-#!/bin/bahs
-vi hello
+#!/bin/bash
+echo '' > hello
